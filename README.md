@@ -1,10 +1,37 @@
-## Hi there 👋
+# Hi there, I'm Mohammod Juwel Islam 👋
 
 <img src="https://github.com/lifeonthecode/lifeonthecode/blob/main/mohammodjuwel.jpg" width="150" height="150" style="border-radius: 100%;" alt="Mohammod Juwel" />
 
-### 🚀 About Me & Professional Skills
 
-I am a passionate **Frontend Developer** and **Full-Stack MERN Developer**, specializing in creating modern, responsive, and high-performance web applications. I also have extensive expertise as a **WordPress Developer**, focusing on **WordPress Theme Customization** and pixel-perfect layouts as a **WordPress Elementor Developer**.
+### 🚀 About Me & Professional Freelancer
+
+I am a passionate **Freelancer, Frontend Developer, and Full-Stack MERN Developer**, specializing in creating modern, responsive, and high-performance web applications. I also have extensive expertise as a **WordPress Developer**, focusing on **WordPress Theme Customization** and pixel-perfect layouts as a **WordPress Elementor Developer**.
+
+🔥 **Looking for your next project or a full-time remote developer? I am currently open to freelance opportunities and contract work!** Let's build something amazing together.
+
+---
+
+### 📬 Get In Touch (Available for Hire)
+
+If you are looking for a professional web developer for your business or custom project, feel free to reach out to me directly through any of the channels below:
+
+👉 **Direct Channels:**
+[![Email](https://img.shields.io/badge/Email_Me-codebari.contact.web%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:codebari.contact.web@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp_Chat-01869315604-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801869315604)
+
+👉 **Social Networks:**
+[![Facebook](https://img.shields.io/badge/Facebook-LifeOnTheCodeDev-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/LifeOnTheCodeDev)
+[![Instagram](https://img.shields.io/badge/Instagram-@lifeonthecodedev-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lifeonthecodedev/)
+[![Threads](https://img.shields.io/badge/Threads-@lifeonthecodedev-000000?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.net/@lifeonthecodedev)
+
+---
+
+### 🔗 Connect With Me & My Work
+
+Explore my recent projects, live demonstrations, and web development tutorials:
+
+[![Portfolio](https://img.shields.io/badge/Visit_My_Portfolio-🌐-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mohammodjuwel.vercel.app/)
+[![YouTube Channel](https://img.shields.io/badge/Life_On_The_Code-🔴_Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@LifeOnTheCodeDev)
 
 ---
 
