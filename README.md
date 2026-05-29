@@ -17,7 +17,7 @@ If you are looking for a professional web developer for your business or custom 
 
 👉 **Direct Channels:**
 [![Email](https://img.shields.io/badge/Email_Me-codebari.contact.web%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:codebari.contact.web@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp_Chat-01869315604-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801869315604)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp_Chat-+88001869315604-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801869315604)
 
 👉 **Social Networks:**
 [![Facebook](https://img.shields.io/badge/Facebook-LifeOnTheCodeDev-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/LifeOnTheCodeDev)
