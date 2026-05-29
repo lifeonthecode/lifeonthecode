@@ -1,11 +1,11 @@
-# Hi there, I'm Mohammod Juwel Islam 👋
+# Hi there, I'm Mohammod Juwel 👋
 
 <img src="https://github.com/lifeonthecode/lifeonthecode/blob/main/mohammodjuwel.jpg" width="150" height="150" style="border-radius: 100%;" alt="Mohammod Juwel" />
 
 
 ### 🚀 About Me & Professional Freelancer
 
-I am a passionate **Freelancer, Frontend Developer, and Full-Stack MERN Developer**, specializing in creating modern, responsive, and high-performance web applications. I also have extensive expertise as a **WordPress Developer**, focusing on **WordPress Theme Customization** and pixel-perfect layouts as a **WordPress Elementor Developer**.
+I am a passionate **Freelancer, Frontend Developer, and Full-Stack MERN Developer**, specializing in creating modern, responsive, and high-performance web applications. I also have extensive expertise as a **WordPress Developer**, with a focus on **WordPress Theme Customization** and pixel-perfect layouts as a **WordPress Elementor Developer**.
 
 🔥 **Looking for your next project or a full-time remote developer? I am currently open to freelance opportunities and contract work!** Let's build something amazing together.
 
