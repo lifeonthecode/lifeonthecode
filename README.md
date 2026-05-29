@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img src="https://github.com/lifeonthecode/lifeonthecode/blob/main/mohammodjuwel.jpg" width="150" height="150" style="border-radius: 50%;" alt="Mohammod Juwel" />
+<img src="https://github.com/lifeonthecode/lifeonthecode/blob/main/mohammodjuwel.jpg" width="150" height="150" style="border-radius: 100%;" alt="Mohammod Juwel" />
 
 <!--
 **lifeonthecode/lifeonthecode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
